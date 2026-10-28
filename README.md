@@ -2,6 +2,8 @@
 
 A two-player tabletop arcade cabinet built around a Raspberry Pi, with more than 14,000 retro games. I designed, built, wired and set it up myself over about a year, from cutting the wood to designing the artwork, and then sold it to a fellow gaming enthusiast.
 
+I built it before the AI era, with no AI assistants: every step, from the wiring to the software setup, I had to work out myself.
+
 <p>
   <img src="img/cabinet-side.webp" alt="Finished cabinet seen from the side, with Donkey Kong artwork" width="45%">
   <img src="img/cabinet-front.webp" alt="Finished cabinet seen from the front, with the two control panels" width="45%">
